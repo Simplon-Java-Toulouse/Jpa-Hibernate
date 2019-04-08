@@ -20,9 +20,9 @@ veille sur TDD & ATDD
 veille sur OWASP / Cyber-sécurité
 
 22.1 Nous souhaitons dorénavant distinguer un utilisateur d'un administrateur.
-En effet, un utilisateur peut consulter un compte et son historique alors qu'un administrateur peut effectuer des opérations.
+En effet, un utilisateur peut consulter un compte et son historique alors qu'un administrateur peut en plus effectuer des opérations.
 
-22.2 Gestion Log out de sorte que l'utilisateur soit déconnecté de l'interface, attention ici, il y a des soucis à gérer !
+22.2 Gestion Log out de sorte que l'utilisateur ou l'admin soit déconnecté de l'interface, attention ici, il y a des soucis à gérer !
 ![center](/logout.png)
 
 22.3 Deployer votre appli
