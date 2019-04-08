@@ -7,13 +7,13 @@ JPA & Hibernate
 veille sur TDD & ATDD
 
 21.1 Dans votre projet BankOnline, ajouter les opérations pour les résultats suivant :
-![center](/home/elbabili/Boostnote/notes/operations.png)
+![center](/operations.png)
 
 21.2 Veiller à bien distinguer versement et retrait par rapport à un virement :
-![center](/home/elbabili/Boostnote/notes/dream.png)
+![center](/dream.png)
 
 21.3 Attention à gérer les cas particuliers telles que : pb de retrait/virement car solde insuffisant ou effectuer un virement d'un compte vers le même compte ou virement vers un compte inconnu... Pour ce faire, vous pouvez combiner le mécanisme des exceptions et les attributs de votre session.
-![center](/home/elbabili/Boostnote/notes/soldeInsuffisant.png)
+![center](/soldeInsuffisant.png)
 
 **Mardi**
 
@@ -23,7 +23,7 @@ veille sur OWASP / Cyber-sécurité
 En effet, un utilisateur peut consulter un compte et son historique alors qu'un administrateur peut effectuer des opérations.
 
 22.2 Gestion Log out de sorte que l'utilisateur soit déconnecté de l'interface, attention ici, il y a des soucis à gérer !
-![center](/home/elbabili/Boostnote/notes/logout.png)
+![center](/logout.png)
 
 22.3 Deployer votre appli
 
